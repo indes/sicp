@@ -25,6 +25,7 @@
     (* x x x)
 )
 
+; 验证
 (cube-root (cube 3))
 (cube-root (cube 4))
 (cube-root (cube 25))
