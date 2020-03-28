@@ -1,0 +1,8 @@
+{
+    "code-runner.executorMapByFileExtension": {
+        ".scm": "scheme"
+    },
+    "code-runner.executorMap": {
+        "scheme": "scheme <"
+    }
+}
